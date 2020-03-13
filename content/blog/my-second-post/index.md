@@ -1,6 +1,6 @@
 ---
 title: Positive Affirmations that Work (For Me)
-date: "2015-05-06T23:46:37.121Z"
+date: "2020-03-13T18:47:40.000Z"
 description: Just a few affirmations that I have found to hold true in my life
 ---
 
