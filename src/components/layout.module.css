@@ -1,6 +1,48 @@
+.container {
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: 150px auto 50px;
+}
+
 .header {
-  background-color: #4c5b6e;
+  background-color: #186bae;
   color: #efefeb;
   padding: 50px;
-  min-height: 100px;
+  grid-column: 1 / -1;
+}
+
+.parallax {
+  background-image: url("../../content/assets/facerock.jpg");
+
+  /* Set a specific height */
+  height: 300px;
+  width: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media only screen and (max-device-width: 1366px) {
+  .parallax {
+    background-attachment: scroll;
+  }
+}
+
+.main {
+  grid-column: 1 / -1;
+  background-color: #ffffff;
+}
+
+.footer {
+  grid-column: 1 / -1;
+  background-color: #9aa4a7;
+  padding: 20px;
+}
+
+.footer a {
+  color: purple;
 }

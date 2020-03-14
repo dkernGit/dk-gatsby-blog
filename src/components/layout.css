@@ -1,13 +1,14 @@
-main {
-  background-color: #f3f2ed;
-  padding: 50px 50px;
+a {
+  color: #79b350;
 }
 
-a {
-  color: #818268;
+main {
+  padding: 50px;
+  max-width: rhythm(24);
+  margin-left: auto;
+  margin-right: auto;
 }
 
 footer {
-  background-color: #9aa4a7;
   text-align: center;
 }

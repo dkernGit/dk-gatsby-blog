@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Danny Kern `,
+    title: `Danny Kern's Blog `,
     author: {
       name: `Danny Kern`,
       summary: `who lives on the Oregon Coast and enjoys exploring technology and the outdoors.`,

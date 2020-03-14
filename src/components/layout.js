@@ -10,59 +10,62 @@ const Layout = ({ location, title, children }) => {
 
   if (location.pathname === rootPath) {
     header = (
-      <div className={styles.header}>
-        <h1
+      <h1
+        style={{
+          ...scale(1.5),
+          marginBottom: rhythm(1.5),
+          marginTop: 0,
+        }}
+      >
+        <Link
           style={{
-            ...scale(1.5),
-            marginBottom: rhythm(1.5),
-            marginTop: 0,
+            boxShadow: `none`,
+            textDecoration: `none`,
+            color: `inherit`,
           }}
+          to={`/`}
         >
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
-            to={`/`}
-          >
-            {title}
-          </Link>
-        </h1>
-      </div>
+          {title}
+        </Link>
+      </h1>
     )
   } else {
     header = (
-      <div className={styles.header}>
-        <h3
+      <h3
+        style={{
+          fontFamily: `Montserrat, sans-serif`,
+          marginTop: 0,
+        }}
+      >
+        <Link
           style={{
-            fontFamily: `Montserrat, sans-serif`,
-            marginTop: 0,
+            boxShadow: `none`,
+            textDecoration: `none`,
+            color: `inherit`,
           }}
+          to={`/`}
         >
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
-            to={`/`}
-          >
-            {title}
-          </Link>
-        </h3>
-      </div>
+          {title}
+        </Link>
+      </h3>
     )
   }
   return (
-    <div>
-      <header>{header}</header>
-      <main>{children}</main>
-      <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
-      </footer>
+    <div className={styles.container}>
+      <div className={styles.header}>
+        <header>{header}</header>
+      </div>
+      <div className={styles.main}>
+        <div className={styles.parallax} />
+        <main>{children}</main>
+      </div>
+      <div className={styles.footer}>
+        <footer>
+          © {new Date().getFullYear()}, Built with
+          {` `}
+          <a href="https://www.gatsbyjs.org">Gatsby</a>
+        </footer>
+      </div>
     </div>
   )
 }
