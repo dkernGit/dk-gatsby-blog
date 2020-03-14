@@ -1,7 +1,7 @@
 ---
 title: Positive Affirmations that Work (For Me)
 date: "2020-03-13T18:47:40.000Z"
-description: Just a few affirmations that I have found to hold true in my life
+description: Just a few affirmations that I have found to speak into my life
 ---
 
 ## Just a few affirmations that I have found to speak into my life

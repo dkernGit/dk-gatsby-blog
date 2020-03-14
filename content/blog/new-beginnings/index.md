@@ -4,7 +4,7 @@ date: "2020-03-13T16:39:58.000Z"
 description: In September 2019 I followed a month long challenge that Jon Acuff put on called September-January where you treat the month on September like a new beginning to the year and focus on achieving a single goal by tracking progress each day.
 ---
 
-In September 2019 I followed a month long challenge that Jon Acuff put on called September-January where you treat the month on September like a new beginning to the year and focus on achieving a single goal by tracking progress each day.
+In September 2019 I followed a month long challenge that Jon Acuff put on called September-January where you treat the month of September like a new beginning to the year and focus on achieving a single goal by tracking progress each day.
 
 Along with the daily tracking you were also encouraged to recite positive affirmation before you started your day and at the end of your day. I admit I felt a little weird talking to myself in the mirror each morning or letting my kids hear me recite positive affirmations in the air. But I can say that telling yourself that you can achieve your goal or make meaningul progress does make a difference.
 
