@@ -1,10 +1,10 @@
 ---
 title: Positive Affirmations that Work (For Me)
-date: "2020-03-13T18:47:40.000Z"
-description: Just a few affirmations that I have found to speak into my life
+date: "2020-03-14T18:47:40.000Z"
+description: Nine affirmations that I have found beneficial to speak regularly into my life.
 ---
 
-## Just a few affirmations that I have found to speak into my life
+## My Nine Affirmations for Life and Work
 
 - This is easy, this is simple, this is fun.
 - In this moment I can begin any change I need.

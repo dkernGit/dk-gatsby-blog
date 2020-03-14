@@ -1,7 +1,7 @@
 ---
 title: January in September
 date: "2020-03-13T16:39:58.000Z"
-description: In September 2019 I followed a month long challenge that Jon Acuff put on called September-January where you treat the month on September like a new beginning to the year and focus on achieving a single goal by tracking progress each day.
+description: In September 2019 I followed a month long challenge that Jon Acuff put on called September-January where you treat the month of September like a new beginning to the year and focus on achieving a single goal by tracking progress each day.
 ---
 
 In September 2019 I followed a month long challenge that Jon Acuff put on called September-January where you treat the month of September like a new beginning to the year and focus on achieving a single goal by tracking progress each day.
