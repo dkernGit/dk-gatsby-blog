@@ -2,6 +2,10 @@ a {
   color: #79b350;
 }
 
+.twitter {
+  color: #00acee;
+}
+
 main {
   padding: 50px;
   max-width: rhythm(24);
@@ -11,4 +15,5 @@ main {
 
 footer {
   text-align: center;
+  height: 50px;
 }
